@@ -1,0 +1,175 @@
+{
+  "teamMembers": [
+    {
+      "id": 11,
+      "name": "Bruno Henrique",
+      "role": "Engenheiro DevOps",
+      "category": "DevOps",
+      "imgURL": "https://randomuser.me/api/portraits/men/11.jpg",
+      "favorite": false
+    },
+    {
+      "id": 12,
+      "name": "Ricardo Farias",
+      "role": "Administrador de Sistemas",
+      "category": "DevOps",
+      "imgURL": "https://randomuser.me/api/portraits/men/12.jpg",
+      "favorite": false
+    },
+    {
+      "id": 13,
+      "name": "Tatiane Lima",
+      "role": "SRE",
+      "category": "DevOps",
+      "imgURL": "https://randomuser.me/api/portraits/women/13.jpg",
+      "favorite": true
+    },
+    {
+      "id": 14,
+      "name": "Diego Santos",
+      "role": "Especialista em Kubernetes",
+      "category": "DevOps",
+      "imgURL": "https://randomuser.me/api/portraits/men/14.jpg",
+      "favorite": true
+    },
+    {
+      "id": 15,
+      "name": "Gabriela Figueiredo",
+      "role": "UX Designer",
+      "category": "UX e Design",
+      "imgURL": "https://randomuser.me/api/portraits/women/15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Leonardo Rocha",
+      "role": "UI Designer",
+      "category": "UX e Design",
+      "imgURL": "https://randomuser.me/api/portraits/men/16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Carla Monteiro",
+      "role": "Pesquisadora UX",
+      "category": "UX e Design",
+      "imgURL": "https://randomuser.me/api/portraits/women/17.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Felipe Oliveira",
+      "role": "Desenvolvedor iOS",
+      "category": "Mobile",
+      "imgURL": "https://randomuser.me/api/portraits/men/18.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Amanda Torres",
+      "role": "Desenvolvedora Android",
+      "category": "Mobile",
+      "imgURL": "https://randomuser.me/api/portraits/women/19.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Rodrigo Campos",
+      "role": "Gerente de Produto",
+      "category": "Inovação e Gestão",
+      "imgURL": "https://randomuser.me/api/portraits/men/21.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Juliana Moreira",
+      "role": "Líder de Inovação",
+      "category": "Inovação e Gestão",
+      "imgURL": "https://randomuser.me/api/portraits/women/22.jpg"
+    },
+    {
+      "name": "Camila Mayara",
+      "role": "Enfermeira Chefe",
+      "imgURL": "https://randomuser.me/api/portraits/women/75.jpg",
+      "category": "Inovação e Gestão",
+      "id": 27
+    },
+    {
+      "name": "Irineu Santos",
+      "role": "Você não sabe e nem Eu",
+      "imgURL": "https://randomuser.me/api/portraits/men/14.jpg",
+      "category": "Data Science",
+      "id": 30,
+      "favorite": false
+    },
+    {
+      "id": "1ip59deff0c5249205ae23f",
+      "name": "Jhonny Castlerun",
+      "role": "Especialista em Kubernetes",
+      "imgURL": "https://randomuser.me/api/portraits/men/40.jpg",
+      "category": "Data Science",
+      "favorite": false
+    },
+    {
+      "id": "1ip7s32j20540e52a0b67f38",
+      "name": "Clóvis de Barros",
+      "role": "Palestrante",
+      "imgURL": "https://randomuser.me/api/portraits/men/52.jpg",
+      "category": "Filosofia"
+    },
+    {
+      "id": "1ip9ouqe60cc0427da39637",
+      "name": "Danilo Gentili",
+      "role": "Apresentador",
+      "imgURL": "https://randomuser.me/api/portraits/men/93.jpg",
+      "category": "Artilheiros do Oeste",
+      "favorite": true
+    },
+    {
+      "name": "Maya Tralli",
+      "role": "Dançarina",
+      "imgURL": "https://randomuser.me/api/portraits/women/91.jpg",
+      "category": "Artilheiros do Oeste",
+      "id": "1ip9pcl7903c6fd1e79edb08",
+      "favorite": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "112675",
+      "category": "UX e Design",
+      "primaryColor": "#DB6EBF",
+      "secondaryColor": "#FAE9F5"
+    },
+    {
+      "id": "99563",
+      "category": "Mobile",
+      "primaryColor": "#ffba05",
+      "secondaryColor": "#fff5d9"
+    },
+    {
+      "id": "834223",
+      "category": "Inovação e Gestão",
+      "primaryColor": "#ff8a29",
+      "secondaryColor": "#ffeedf"
+    },
+    {
+      "id": "1ip9ouqs90a0513d706a1d28",
+      "category": "Artilheiros do Oeste",
+      "primaryColor": "#d46018",
+      "secondaryColor": "rgba(212, 96, 24, 0.4)"
+    },
+    {
+      "id": "1ipa25er80ee7ab2c2be4608",
+      "category": "Data Science",
+      "primaryColor": "#3ae443",
+      "secondaryColor": "rgba(58, 228, 67, 0.4)"
+    },
+    {
+      "id": "1ipa25er90ce2befa57bf2b8",
+      "category": "Filosofia",
+      "primaryColor": "#f2ecaa",
+      "secondaryColor": "rgba(242, 236, 170, 0.4)"
+    },
+    {
+      "id": "1ipa2680u0bfa571a2ecdcc",
+      "category": "DevOps",
+      "primaryColor": "#b524f5",
+      "secondaryColor": "rgba(181, 36, 245, 0.4)"
+    }
+  ]
+}
